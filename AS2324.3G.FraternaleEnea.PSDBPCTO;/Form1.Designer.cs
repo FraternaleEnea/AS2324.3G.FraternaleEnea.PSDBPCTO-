@@ -51,6 +51,7 @@
             piloti.TabIndex = 1;
             piloti.Text = "Elenco piloti";
             piloti.UseVisualStyleBackColor = true;
+            piloti.Click += piloti_Click;
             // 
             // gare
             // 
@@ -60,6 +61,7 @@
             gare.TabIndex = 2;
             gare.Text = "Elenco gare";
             gare.UseVisualStyleBackColor = true;
+            gare.Click += gare_Click;
             // 
             // Form1
             // 
