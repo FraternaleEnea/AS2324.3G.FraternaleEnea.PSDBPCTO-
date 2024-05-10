@@ -6,5 +6,6 @@ namespace AS2324._3G.FraternaleEnea.PSDBPCTO_
         {
             InitializeComponent();
         }
+
     }
 }
